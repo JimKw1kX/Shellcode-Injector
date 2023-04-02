@@ -5,5 +5,9 @@ This injector uses [QueueUserAPC function](https://learn.microsoft.com/en-us/win
 
 # DEMO
 
+1. Generate shellcode in C# format and add to the injector, then use [GadgetToJScript](https://github.com/med0x2e/GadgetToJScript/tree/master) to convet it to js format then execute
 
+![exeucte](https://github.com/JimSolomon/Shellcode-Injector/blob/main/2023-04-02_12-18.png)
  
+2. Cobalt Strike received a beacon
+![cs](https://github.com/JimSolomon/Shellcode-Injector/blob/main/2023-04-02_13-35.png)
