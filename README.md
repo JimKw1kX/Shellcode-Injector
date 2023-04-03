@@ -5,7 +5,7 @@
 
 
 # Info:
-This script was created during studying of the [RTO2 course](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii)
+This script was created from the knowledge gained from the [RTO2 course](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii)
 
 
 # Overview:
