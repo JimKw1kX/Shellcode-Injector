@@ -19,13 +19,15 @@ This injector uses [QueueUserAPC function](https://learn.microsoft.com/en-us/win
 
 ![exeucte](https://github.com/JimSolomon/Shellcode-Injector/blob/main/2023-04-02_12-18.png)
  
-2. Cobalt Strike received a beacon
+Cobalt Strike received a beacon
 ![cs](https://github.com/JimSolomon/Shellcode-Injector/blob/main/2023-04-02_13-35.png)
 
-3. Geneate a `VBA` format and inject to Word Macros
+2. Geneate a `VBA` format and inject to Word Macros
 
 ![VBA](https://github.com/JimSolomon/Shellcode-Injector/blob/main/VBA.png)
 ![Macros](https://github.com/JimSolomon/Shellcode-Injector/blob/main/Inject%20to%20Macros.png)
+
+Cobalt Strike received a beacon
 ![beacon](https://github.com/JimSolomon/Shellcode-Injector/blob/main/Beacon%20from%20Macros.png)
 
 
