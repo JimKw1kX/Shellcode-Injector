@@ -5,7 +5,7 @@
 
 
 # Info:
-Shellcode injector to bypass Attack Surface Reduction ASR rule of blocking arbitrary code execution. This script was created from the knowledge gained from [RTO2 Course](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii).
+Shellcode injector to bypass Attack Surface Reduction (ASR) rule of blocking arbitrary code execution. This script was created from the knowledge gained from [RTO2 Course](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii).
 
 
 # Overview:
