@@ -1,8 +1,7 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+[![Follow @JimKwik_X](https://img.shields.io/twitter/follow/JimKwik_X?style=social)](https://x.com/JimKwik_X)
+
 # Shellcode-Injector
-
-# ⚠️ Note: This project is licensed under the terms of the MIT license.
-
-
 
 # Info:
 A Shellcode injector that bypasses Attack Surface Reduction (ASR) rule of blocking arbitrary code execution. This script was created from the knowledge gained from [RTO2 Course](https://training.zeropointsecurity.co.uk/courses/red-team-ops-ii).
